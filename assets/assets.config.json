@@ -64,5 +64,14 @@
   },
   "linkedin.png": {
     "mime": "image/png"
+  },
+  "youtube.png": {
+    "mime": "image/png"
+  },
+  "dribble.png": {
+    "mime": "image/png"
+  },
+  "behance.png": {
+    "mime": "image/png"
   }
 }
