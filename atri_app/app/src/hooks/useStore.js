@@ -829,7 +829,7 @@ const desktopModeProps = {
     },
     "TextBox38": {
       "custom": {
-        "text": "About Me ↗"
+        "text": "About me ↗"
       },
       "callbacks": {
         "onClick": [
@@ -1038,7 +1038,7 @@ const desktopModeProps = {
     },
     "TextBox52": {
       "custom": {
-        "text": "UI/UX Design"
+        "text": "Motion Graphics"
       },
       "callbacks": {
         "onClick": [
@@ -1187,7 +1187,7 @@ const desktopModeProps = {
     },
     "TextBox111": {
       "custom": {
-        "text": "What did I learn from doing 50+ design sprints?"
+        "text": "5 free hot typographies to download in 2022"
       },
       "callbacks": {
         "onClick": [
@@ -1199,7 +1199,7 @@ const desktopModeProps = {
     },
     "TextBox108": {
       "custom": {
-        "text": "Design"
+        "text": "Typography"
       },
       "callbacks": {
         "onClick": [
