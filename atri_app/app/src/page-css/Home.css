@@ -436,9 +436,9 @@ align-items: center;
 justify-content: space-between;
 padding-bottom: ;
 margin-bottom: ;
-border-bottom-width: 1px;
+border-bottom-width: 0px;
 border-bottom-color: #68686866;
-border-bottom-style: solid;
+border-bottom-style: none;
 padding-top: 50px;
 }
 .p-Home.Flex92 {
@@ -862,7 +862,7 @@ width: 50%;
 .p-Home.Image10 {
 width: 20%;
 position: absolute;
-bottom: 500px;
+bottom: 460px;
 margin-top: ;
 }
 .p-Home.TextBox36 {
@@ -1022,7 +1022,7 @@ font-family: IBM Plex Sans;
 font-weight: 500;
 color: #0d0d0d;
 }
-.p-Home.Link1 {
+.p-Home.TextBox157 {
 font-size: 24px;
 line-height: 26px;
 font-family: IBM Plex Sans;

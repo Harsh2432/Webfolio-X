@@ -316,10 +316,6 @@ export function useTextBox40Cb() {
 }), [])
 	return { onClick }
 }
-export function useLink1Cb() {
-
-	return {  }
-}
 export function useFlex39Cb() {
 	const onClick = useCallback(callbackFactory("Flex39", "Home", "/", "onClick", 
 			{
@@ -2827,6 +2823,22 @@ export function useImage35Cb() {
 }
 export function useImage36Cb() {
 	const onClick = useCallback(callbackFactory("Image36", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox157Cb() {
+	const onClick = useCallback(callbackFactory("TextBox157", "Home", "/", "onClick", 
 			{
   "handlers": [
     {

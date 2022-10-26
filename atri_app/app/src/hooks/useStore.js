@@ -1073,10 +1073,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Link1": {
+    "TextBox157": {
       "custom": {
-        "text": "Browse resume ↗",
-        "url": "/"
+        "text": "Browse resume ↗"
       },
       "callbacks": {
         "onClick": [
