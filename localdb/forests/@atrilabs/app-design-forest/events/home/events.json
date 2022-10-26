@@ -65417,5 +65417,60 @@
       }
     },
     "id": "8dd561cd-c27c-46e0-a696-0339cf6edadc"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "bottom": 56
+        }
+      }
+    },
+    "id": "8dd561cd-c27c-46e0-a696-0339cf6edadc"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "bottom": 56
+        }
+      }
+    },
+    "id": "8dd561cd-c27c-46e0-a696-0339cf6edadc"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "bottom": 5
+        }
+      }
+    },
+    "id": "8dd561cd-c27c-46e0-a696-0339cf6edadc"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "bottom": 58
+        }
+      }
+    },
+    "id": "8dd561cd-c27c-46e0-a696-0339cf6edadc"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "bottom": 580
+        }
+      }
+    },
+    "id": "8dd561cd-c27c-46e0-a696-0339cf6edadc"
   }
 ]
