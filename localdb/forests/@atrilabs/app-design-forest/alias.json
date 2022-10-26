@@ -1,5 +1,6 @@
 {
-  "Flex": 35,
-  "Image": 10,
-  "TextBox": 38
+  "Flex": 50,
+  "Image": 16,
+  "TextBox": 52,
+  "Link": 4
 }
