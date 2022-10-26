@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 atri = "*"
+fastapi = "==0.84.0"
 
 [dev-packages]
 
