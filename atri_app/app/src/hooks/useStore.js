@@ -1097,10 +1097,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Link5": {
+    "TextBox158": {
       "custom": {
-        "text": "Browse more articles ↗",
-        "url": "/"
+        "text": "Browse more articles ↗"
       },
       "callbacks": {
         "onClick": [
