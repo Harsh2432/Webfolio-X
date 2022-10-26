@@ -52,5 +52,17 @@
   },
   "image.png": {
     "mime": "image/png"
+  },
+  "facebook-app-symbol.png": {
+    "mime": "image/png"
+  },
+  "twitter.png": {
+    "mime": "image/png"
+  },
+  "instagram.png": {
+    "mime": "image/png"
+  },
+  "linkedin.png": {
+    "mime": "image/png"
   }
 }
